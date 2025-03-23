@@ -9,7 +9,7 @@
 | **Backend:** [***Reload Backend***](https://github.com/Project-Reload/Reload-Backend) | *Creator:* [burlone0](https://github.com/burlone0) | Almost all version support |
 | **Launcher:** [***Era OLD Launcher***](https://github.com/EraFNOrg/Era-Launcher) | *Creator:* [Project Era](https://github.com/EraFNOrg) |  Almost all version support |
 
-**Note:** *These "OG FORTNITE hosting suffs" are open source and free to use **+** make sure to support these people and leave a **Star🌟** in their repository!*
+**Note:** *These "OG FORTNITE hosting stuffs" are open source and free to use **+** make sure to support these people and leave a **Star🌟** in their repository!*
 
 
 - - # What "ALpha" is offering ? | What is this "OGFN" ?
