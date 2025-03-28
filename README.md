@@ -12,7 +12,7 @@
 **Note:** *These "OG FORTNITE hosting stuffs" are open source and free to use **+** make sure to support these people and leave a **Star🌟** in their repository!*
 
 
-- - # | Information | What "ALpha" is offering ? | What is this "OGFN" ?
+- - # Information...
 
  - Turotials for Project Reboot and other OG Projects
  - OGFN Projects are listed in the server with discord links and what version and season is it
