@@ -20,6 +20,10 @@ heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS
  - Alpha Hosts OLD Fortnite versions such as "1.7.2" or "1.11" .
  - Alpha uses the Credited stuff above and newly added custom features for the "Gameserver" and "Backend".
  - Currently theres **NO** paid stuffs or perks that you can buy! ( If you sitll wanna support the server and foundings DM ducki67 on discord ).
- - The discord server also helps you with: "How to host OG Fortnite" / "How to host on Project Reboot for your friends" / "How do i sart a ogfn Hosting project"
+ - The discord server also helps you with: "How to host OG Fortnite" / "How to host on Project Reboot for your friends" / "How do i sart a ogfn Hosting project".
+ - **Language and community:**
+ - *2* Languages ( HUNGARIAN, ENGLISH)
+ - Default Language: ENG
+ - the #server-info channel ptovides all info about Roles and Channels. 
 
- - - ***For more questions and answers make a Comment on this post and you will be featured.**
+ - - ***For more questions and answers make a Comment on this post and you will be featured.***
