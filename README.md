@@ -15,7 +15,7 @@
 
 - - # Information...
 
- - Turotials for Project Reboot and other OG Projects
+ -  - **Turotials for Project Reboot and other OG Projects**
  - OGFN Projects are listed in the server with discord links and what version and season is it
 heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS*.
  - Alpha Hosts OLD Fortnite versions such as "1.7.2" or "1.11" .
@@ -26,9 +26,9 @@ heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS
 ( "How to host on Project Reboot for your friends" )
 ( "How do i sart a ogfn Hosting project" ).
 
- - *2* Languages ( HUNGARIAN, ENGLISH) [Default Language: ENG]
- - the #server-info channel ptovides all info about Roles and Channels. 
- - Season Roadmap: 
+ - *2* Languages ( HUNGARIAN, ENGLISH) [Default Language: ENG]  
+ - the  [**#server-info**](https://discord.com/channels/1248652960141938799/1295694885776789595) channel ptovides all info about Roles and Channels. 
+ - - **Season Roadmap:**
 
 (season 0 | 1.7.2) 
 
