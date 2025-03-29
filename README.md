@@ -1,6 +1,7 @@
  - - # Alpha OG Fortnite
  - In this repository you can find: (Launcher), (Credits to people) and more.
  *Alpha OGFN made by:* [**Ducki67**](https://github.com/Ducki67) and please check my other repositorys too ,*Join the Alpha Discord server:* [**Here**](https://discord.gg/YwcSnhedQm)
+
 **Important:** *Read the [LICENSE](https://github.com/Ducki67/Alpha-OG-Fortnite/blob/main/LICENSE) please befor doing anything with the code.*
 
 - - # Credits
