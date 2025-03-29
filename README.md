@@ -1,6 +1,6 @@
  - - # Alpha OG Fortnite
  - In this repository you can find: (Launcher), (Credits to people) and more.
- *Alpha OGFN made by:* [**Ducki67**](https://github.com/Ducki67) and please check my other repositorys too ,*Join the Discord server:* [**Here**](https://discord.gg/YwcSnhedQm)
+ *Alpha OGFN made by:* [**Ducki67**](https://github.com/Ducki67) and please check my other repositorys too ,*Join the Alpha Discord server:* [**Here**](https://discord.gg/YwcSnhedQm)
 
 - - # Credits
 |  Gameserver / Launcher / Backend  |  Creators  | Season supports |
@@ -10,8 +10,6 @@
 | **Launcher:** [***Era OLD Launcher***](https://github.com/EraFNOrg/Era-Launcher) | [Project Era](https://github.com/EraFNOrg) |  Almost all version support |
 
 **Note:** *These "OG FORTNITE hosting stuffs" are open source and free to use **+** make sure to support these people and leave a **Star🌟** in their repository!*
-
-
 
 ![BG v2 1](https://github.com/user-attachments/assets/97931ae1-8170-47c6-9af6-210915a1d395)
 
@@ -30,5 +28,14 @@ heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS
 
  - *2* Languages ( HUNGARIAN, ENGLISH) [Default Language: ENG]
  - the #server-info channel ptovides all info about Roles and Channels. 
+ - Season Roadmap: 
+
+(season 0 | 1.7.2) 
+
+(season 1 | 1.10) 
+
+(season 2 | 1.11 and 2.2+ ) 
+
+and more seasons up to (season 10 / X  | 10.40)
 
  - - ***For more questions and answers make a Comment on this post and you will be featured.***
