@@ -14,6 +14,9 @@
 
 - - # Information...
 
+![BG v2 1](https://github.com/user-attachments/assets/97931ae1-8170-47c6-9af6-210915a1d395)
+
+
  - Turotials for Project Reboot and other OG Projects
  - OGFN Projects are listed in the server with discord links and what version and season is it
 heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS*.
