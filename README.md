@@ -27,8 +27,8 @@ heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS
 ( "How do i sart a ogfn Hosting project" ).
 
  - *2* Languages ( HUNGARIAN, ENGLISH) [Default Language: ENG]  
- - the  **#server-info** channel ptovides all info about Roles and Channels. ( image preview: [**1.**](https://github.com/user-attachments/assets/2a4a0977-3623-4263-a08d-6e5303dc29e8)
-   [**2.**](https://github.com/user-attachments/assets/0ce863c4-f2c7-4bdf-ac97-a3f95618fa85)
+ - the  **#server-info** channel ptovides all info about Roles and Channels. ( image preview: [**image 1.**](https://github.com/user-attachments/assets/2a4a0977-3623-4263-a08d-6e5303dc29e8)  ,
+   [**image 2.**](https://github.com/user-attachments/assets/0ce863c4-f2c7-4bdf-ac97-a3f95618fa85)
 
  - - **Season Roadmap:**
 
