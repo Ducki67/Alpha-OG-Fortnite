@@ -4,8 +4,17 @@
 
 **Important:** *Read the [LICENSE](https://github.com/Ducki67/Alpha-OG-Fortnite/blob/main/LICENSE) please befor doing anything with the code.*
 
-
 ![BG v2 1](https://github.com/user-attachments/assets/97931ae1-8170-47c6-9af6-210915a1d395)
+
+
+- - # Credits
+|  Gameserver / Launcher / Backend  |  Creators  | Season supports |
+|--------------|--------------|-------------|
+|**Gameserver:** [***Project-Reboot-3.0 GS***](https://github.com/Milxnor/Project-Reboot-3.0) | [Milxnor](https://github.com/Milxnor) | *S3* - *S15* , *S20+* Branch support |
+| **Backend:** [***Reload Backend***](https://github.com/Project-Reload/Reload-Backend) | [burlone0](https://github.com/burlone0) | Almost all version support |
+| **Launcher:** [***Era OLD Launcher***](https://github.com/EraFNOrg/Era-Launcher) | [Project Era](https://github.com/EraFNOrg) |  Almost all version support |
+
+**Note:** *These "OG FORTNITE hosting stuffs" are open source and free to use **+** make sure to support these people and leave a **Star🌟** in their repository!*
 
 - - # Information...
 
@@ -32,6 +41,6 @@ heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS
 
 (season 2 | 1.11 and 2.2+ ) 
 
-and more seasons up to (season 10 / X  | 10.40)
+and more seasons up to (season 10 / X  | 10.40) [ This idea can change majorly]
 
- - - ***For more questions and answers make a Comment on this post and you will be featured.***
+ - - ***For more questions and answers make a Comment or a Pullrequest on this post and you will be featured.***
