@@ -44,6 +44,7 @@ heres what is listed currently: *EZFN, NOVA, FLUX, RETRAC, EON, ECLIPSE, SOLARIS
 and more seasons up to (season 10 / X  | 10.40) [ This idea can change majorly]
 
 **For old season downloads**
-[**>>Check Realeses here <<**](https://github.com/Ducki67/Alpha-OG-Fortnite/releases)
+
+ - [**>>Check Realeses here <<**](https://github.com/Ducki67/Alpha-OG-Fortnite/releases)
 
  - - ***For more questions and answers make a Comment or a Pullrequest on this post and you will be featured.***
