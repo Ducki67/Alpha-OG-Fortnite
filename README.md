@@ -48,3 +48,14 @@ and more seasons up to (season 10 / X  | 10.40) [ This idea can change majorly]
  - [**>>Check Realeses here <<**](https://github.com/Ducki67/Alpha-OG-Fortnite/releases)
 
  - - ***For more questions and answers make a Comment or a Pullrequest on this post and you will be featured.***
+
+
+
+# Patch notes 🗒
+*Backend, Launcher, Gameserver, +Other, Updates can be found here*
+
+**Example "Patch notes" layout:**
+
+
+* [X] **( This checked Cube will shows what is added  OR fixed )**
+* [ ] **( This unchecked Cube will show what is NOT wotking ingame OR Still an issue )**
