@@ -1,4 +1,4 @@
-# Patch notes 🗒 (EXAMPLE VERSION)
+# Patch notes 🗒 (MAIN)
 *Backend, Launcher, Gameserver, +Other, Updates can be found here*
 
 **Example "Patch notes" layout:**
