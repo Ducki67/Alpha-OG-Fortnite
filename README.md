@@ -52,8 +52,8 @@ and more seasons up to (season 10 / X  | 10.40) [ This idea can change majorly]
 # Patch notes 🗒
 *Backend, Launcher, Gameserver, +Other, Updates can be found here*
 
-[Read the latest Patch notes here.](https://github.com/Ducki67/Alpha-OG-Fortnite/tree/Patch-notes)
-
+# Read the latest Patch notes [ > here! <](https://github.com/Ducki67/Alpha-OG-Fortnite/tree/Patch-notes)
+![Alpha OG MAP](https://github.com/user-attachments/assets/a5b54e4e-5ce2-48e3-b8f9-3bf2fa226dc6)
 **Example "Patch notes" layout:**
 * [X] **( This checked Cube will shows what is added  OR fixed )**
 * [ ] **( This unchecked Cube will show what is NOT wotking ingame OR Still an issue )**
