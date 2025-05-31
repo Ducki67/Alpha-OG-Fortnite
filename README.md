@@ -1,74 +1,74 @@
-**JOIN TUTORIAL** *🇺🇸 ENGLISH🇬🇧*
+# JOIN TUTORIAL *ENGLISH*
 
 
-> **Step 1**
-> Downloading!
+> >## **Step 1**
+> > Downloading!
+> > 
+> > **To do 1.** Download the latest Reboot launcher!
+> > Version:(10.0.6)
+> > 
+> > Link:**https://github.com/Auties00/Reboot-Launcher/releases**
+> > 
+> > **To do 2.** 
+> > Download RadminVPN!
+> > 
+> > Link:**https://www.radmin-vpn.com**
+> > Direct download:
+> > 
+> > Join network **"Private network"** 
+> > for name and password type: **Season10ch1**
 > 
-> **To do 1.** Download the latest Reboot launcher!
-> Version:(10.0.6)
 > 
-> Link:**https://github.com/Auties00/Reboot-Launcher/releases**
+> > ## **Step 2**
+> > Account creation!
+> > 
+> > Make an account at:(<#1324476945857118289>) with the command **"/create"**
+> > 
+> > NOTE: You can skipp this step if you have an account already!!
 > 
-> **To do 2.** 
-> Download RadminVPN!
 > 
-> Link:**https://www.radmin-vpn.com**
-> Direct download:
+> > ## **Step 3**
+> > Launcher setting / logging in!
+> >
+> > **1.** Click on the **"Profile"** icon at the **"Play"** selection and type in your Email and Password that you given when you created your account!
+> >
+> > **2.** Click on the **"Backend"** tab and then Click on the **"Type"** and select **"Remote"** and for the **"The hostname for the backend"** type this IP: **26.57.80.132**
 > 
-> Join network **"Private network"** 
-> for name and password type: **Season10ch1**
-
-
-> **Step 2**
-> Account creation!
 > 
-> Make an account at:(<#1324476945857118289>) with the command **"/create"**
+> > ## **Step 4**
+> > Join ability!
+> > 
+> > On your Reboot launcher click on the **"Play"** selection and click on **"launch fortnite"**
+> > then if you get a pop-up then just Click on **"Ignore"** and your game should launch!
+> > 
+> > *IMPORTANT:* ALWAYS HAVE YOUR **"RadminVPN"** open in your background!!!
 > 
-> NOTE: You can skipp this step if you have an account already!!
-
-
-> **Step 3**
-> Launcher setting / logging in!
->
-> **1.** Click on the **"Profile"** icon at the **"Play"** selection and type in your Email and Password that you given when you created your account!
->
-> **2.** Click on the **"Backend"** tab and then Click on the **"Type"** and select **"Remote"** and for the **"The hostname for the backend"** type this IP: **26.57.80.132**
-
-
-> **Step 4**
-> Join ability!
 > 
-> On your Reboot launcher click on the **"Play"** selection and click on **"launch fortnite"**
-> then if you get a pop-up then just Click on **"Ignore"** and your game should launch!
+> > ## **Step 5**
+> > In-game server join!
+> > 
+> > **Solution 1.** *(This for Older seasons !!)*
+> > 
+> > In-Lobby you have to Press **F6** or **F8** type this command in to the console!
+> > Command: **open 26.57.80.132**
+> > 
+> > **Solution 2.** *(This for Chapter 2 seasons)*
+> >
+> > In-Lobby click on the "Ready up" or "Ready" to join! (it will take around 5-6 seconds to ready)
 > 
-> *IMPORTANT:* ALWAYS HAVE YOUR **"RadminVPN"** open in your background!!!
-
-
-> **Step 5**
-> In-game server join!
 > 
-> **Solution 1.** *(This for Older seasons !!)*
-> 
-> In-Lobby you have to Press **F6** or **F8** type this command in to the console!
-> Command: **open 26.57.80.132**
-> 
-> **Solution 2.** *(This for Chapter 2 seasons)*
->
-> In-Lobby click on the "Ready up" or "Ready" to join! (it will take around 5-6 seconds to ready)
-
-
-> **Step 6** *(Optional / Not needed)*
-> 
-> Useful commands in-game!
-> 
-> Press **F6** or **F8** to open the console!
-> 
-> Commands:
->```Js
-> FOV (#) 
->```
->**About FOV / Fild Of View:** [Changes your fild of view the number is optional]
->```Js
-> SETRES (#)X1080 
->```
->**About Strech Resolution:** [Changes your Stretch resolution Only works on full screen mode the command needs to look like this .eg; (**"setres 1550X1080"**) !!]
+> > ## **Step 6** *(Optional / Not needed)*
+> > 
+> > Useful commands in-game!
+> > 
+> > Press **F6** or **F8** to open the console!
+> > 
+> > Commands:
+> >```Js
+> > FOV (#) 
+> >```
+> >**About FOV / Fild Of View:** [Changes your fild of view the number is optional]
+> >```Js
+> > SETRES (#)X1080 
+> >```
+> >**About Strech Resolution:** [Changes your Stretch resolution Only works on full screen mode the command needs to look like this .eg; (**"setres 1550X1080"**) !!]
