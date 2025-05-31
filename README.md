@@ -2,6 +2,8 @@
  - In this repository you can find: (Launcher), (Credits to people) and more.
  *Alpha OGFN made by:* [**Ducki67**](https://github.com/Ducki67) and please check my other repositorys too ,*Join the Alpha Discord server:* [**Here**](https://discord.gg/YwcSnhedQm)
 
+Read the Multiplayer tutorial [**Here!**](https://github.com/Ducki67/Alpha-OG-Fortnite/tree/Multiplayer-Tutorial)
+
 ![ChatGPT Image alpha](https://github.com/user-attachments/assets/83982bf7-460f-4aeb-be7f-16a4d75c7e12)
 
 
