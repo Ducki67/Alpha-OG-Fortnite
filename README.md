@@ -1,4 +1,4 @@
-# JOIN TUTORIAL *ENGLISH*
+# 🚩JOIN TUTORIAL *ENGLISH*🚩
 
 
 > >## **Step 1**
@@ -59,7 +59,7 @@
 > >
 > > In-Lobby click on the "Ready up" or "Ready" to join! (it will take around 5-6 seconds to ready)
 > 
-> - - # Other stuff below 👇 
+> - - # 🚩Commands for Devs and Players👇 
 >
 > > ## *(Optional / Not needed)*
 > > 
