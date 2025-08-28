@@ -14,11 +14,11 @@ Read the Multiplayer tutorial [**Here!**](https://github.com/Ducki67/Alpha-OG-Fo
 
 **Note:** *These "OG FORTNITE hosting stuffs" are open source and free to use **+** make sure to support these people and leave a **Star🌟** in their repository!*
 
-![BG v2 1](https://github.com/user-attachments/assets/97931ae1-8170-47c6-9af6-210915a1d395)
+<img width="1620" height="726" alt="img ch4" src="https://github.com/user-attachments/assets/67e1075b-fbfc-4665-9bf7-811d6918daa9" />
 
 - - # Information...
 
- - Alpha Hosts OLD Fortnite versions such as "1.7.2" or "1.8.2" .
+ - Alpha Hosts OLD Fortnite versions such as "1.7.2" or "1.8.2" and "24.20" in beta.
  - Alpha uses the Credited stuff above and newly added custom features for the "Gameserver" and "Backend".
  - Currently theres **NO** paid stuffs or perks that you can buy! ( If you sitll wanna support the server and foundings DM ducki67 on discord ).
 
@@ -26,9 +26,9 @@ Read the Multiplayer tutorial [**Here!**](https://github.com/Ducki67/Alpha-OG-Fo
  - - **Season Hosts**
 
 
-(Season 1 | 1.8.2) 
+(Season 1 | 1.8.2) **Not fully done**
 
-(Chapter 4 Season 2 | 24.20)
+(Chapter 4 Season 2 | 24.20) **Currently in Beta**
 
 **For old season downloads**
 
@@ -39,7 +39,7 @@ Read the Multiplayer tutorial [**Here!**](https://github.com/Ducki67/Alpha-OG-Fo
 *Backend, Launcher, Gameserver, +Other, Updates can be found here*
 
 # Read the latest Patch notes [ > here! <](https://github.com/Ducki67/Alpha-OG-Fortnite/tree/Patch-notes)
-![Alpha OG MAP](https://github.com/user-attachments/assets/a5b54e4e-5ce2-48e3-b8f9-3bf2fa226dc6)
+
 **Example "Patch notes" layout:**
 * [X] **( This checked Cube will shows what is added  OR fixed )**
 * [ ] **( This unchecked Cube will show what is NOT wotking ingame OR Still an issue )**
