@@ -21,6 +21,29 @@
  - Alpha uses the Credited stuff above and newly added custom features for the "Gameserver" and "Backend".
  - Currently theres **NO** paid stuffs or perks that you can buy! ( If you sitll wanna support the server and foundings DM ducki67 on discord ).
 
+- - # FAQ
+
+>**Q:** Is Alpha a project?
+>
+>**A:** NO and currently looks like never be. Its a Hosting!
+
+
+>**Q:** How to get Full Locker?
+>
+>**A:** Curnnetly you cannot buy it the only people who have FL is Trusted or Moderators.
+
+
+>**Q:** What the Trusted / Moderators get for their service??
+>
+>**A:** They can chose between 3 things to get as a reward: FL, 50K VB, or Nothing  for those who dont need special treatment.
+
+
+>**Q:** What season is Alpha hosting ??
+>
+>**A:** Alpha host 2 season as of right now: Chapter 4 Season 2 (24.20) and Chapter 1 Season 1 (1.8.2) 
+>
+>Build / Season sizes: 1.8.2 is (*18.5 GB*) | 24.20 is (*37.3 GB*)
+
  
  - - **Season Hosts**
 
