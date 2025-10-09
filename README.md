@@ -48,9 +48,9 @@
  - - **Season Hosts**
 
 
-(Season 1 | 1.8.2) **Not fully done**
+(Season 1 | 1.8.2) **Under the works**
 
-(Chapter 4 Season 2 | 24.20) **Currently in Beta**
+(Chapter 4 Season 2 | 24.20) **Hosts ended**
 
 **For old season downloads**
 
