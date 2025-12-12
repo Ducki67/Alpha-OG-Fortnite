@@ -52,9 +52,9 @@
 
 (Chapter 4 Season 2 | 24.20) **Hosts ended**
 
-**For old season downloads**
+**Looking for the TEMP Launcher download?**
 
- - [**>>Check Realeses here <<**](https://github.com/Ducki67/Alpha-OG-Fortnite/releases)
+ - [**>>Check Releases here (for the launcher)<<**](https://github.com/Ducki67/Alpha-OG-Fortnite/releases)
 
 
 # Patch notes 🗒
